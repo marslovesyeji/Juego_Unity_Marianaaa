@@ -1,0 +1,89 @@
+{
+    "version": 1,
+    "name": "Numbers",
+    "maps": [
+        {
+            "name": "Numbers",
+            "id": "9e1ab823-8729-4d54-ad3b-5f0f103c4583",
+            "actions": [
+                {
+                    "name": "Move 2",
+                    "type": "Value",
+                    "id": "5c55900c-5737-422c-8143-978f0b69ca6c",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Jump 2",
+                    "type": "Button",
+                    "id": "b4cc37bf-46d4-4cf7-8950-8c3d5ac444b0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "2D Vector",
+                    "id": "b7a16068-4146-4838-b6fd-ebe8fec4cfb1",
+                    "path": "2DVector",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move 2",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "left",
+                    "id": "d73d4108-1fc1-402e-a5ef-e1c63752209b",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Numbers",
+                    "action": "Move 2",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "17a97dad-b5a5-4621-8250-4cbca536841a",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Numbers",
+                    "action": "Move 2",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "42e080a1-de6c-4a34-8d84-0eec4bcfe0c5",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Numbers",
+                    "action": "Jump 2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Numbers",
+            "bindingGroup": "Numbers",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

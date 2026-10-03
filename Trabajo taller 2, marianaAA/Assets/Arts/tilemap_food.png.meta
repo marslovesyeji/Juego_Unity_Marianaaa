@@ -1,0 +1,3042 @@
+fileFormatVersion: 2
+guid: 7ecf33cd90f32ee489158c67e888484e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7392892735699963511
+    second: tilemap_food_0
+  - first:
+      213: -5861646453579999213
+    second: tilemap_food_1
+  - first:
+      213: 7323993488115460045
+    second: tilemap_food_2
+  - first:
+      213: -230053117733169846
+    second: tilemap_food_3
+  - first:
+      213: -6492788831237159812
+    second: tilemap_food_4
+  - first:
+      213: -4591547058563940662
+    second: tilemap_food_5
+  - first:
+      213: -6510149981413816916
+    second: tilemap_food_6
+  - first:
+      213: -7418069447662991267
+    second: tilemap_food_7
+  - first:
+      213: 1415353946363129642
+    second: tilemap_food_8
+  - first:
+      213: -8483336019607265533
+    second: tilemap_food_9
+  - first:
+      213: 828809046428373143
+    second: tilemap_food_10
+  - first:
+      213: 6810208037272206484
+    second: tilemap_food_11
+  - first:
+      213: 2985373802239849267
+    second: tilemap_food_12
+  - first:
+      213: -703427015043243851
+    second: tilemap_food_13
+  - first:
+      213: -1260336340327938726
+    second: tilemap_food_14
+  - first:
+      213: 3640859320610104123
+    second: tilemap_food_15
+  - first:
+      213: -4781992493832145877
+    second: tilemap_food_16
+  - first:
+      213: 7394435423448521524
+    second: tilemap_food_17
+  - first:
+      213: -5994254677095618288
+    second: tilemap_food_18
+  - first:
+      213: 3031515955902108091
+    second: tilemap_food_19
+  - first:
+      213: -173471740763572368
+    second: tilemap_food_20
+  - first:
+      213: -7308575782721033648
+    second: tilemap_food_21
+  - first:
+      213: 2450020077920375615
+    second: tilemap_food_22
+  - first:
+      213: -5336175231093515387
+    second: tilemap_food_23
+  - first:
+      213: 1535861614254650790
+    second: tilemap_food_24
+  - first:
+      213: -5784413174998546015
+    second: tilemap_food_25
+  - first:
+      213: -7465968769070489437
+    second: tilemap_food_26
+  - first:
+      213: -6367688368003128382
+    second: tilemap_food_27
+  - first:
+      213: -5120456403614604538
+    second: tilemap_food_28
+  - first:
+      213: -1288565558383693457
+    second: tilemap_food_29
+  - first:
+      213: 59926479669610929
+    second: tilemap_food_30
+  - first:
+      213: 2448062098651649041
+    second: tilemap_food_31
+  - first:
+      213: 8089886732639941648
+    second: tilemap_food_32
+  - first:
+      213: -7965976349129050141
+    second: tilemap_food_33
+  - first:
+      213: 2810451089994887321
+    second: tilemap_food_34
+  - first:
+      213: 8674731417095474117
+    second: tilemap_food_35
+  - first:
+      213: -3740919122642307603
+    second: tilemap_food_36
+  - first:
+      213: -3618282423957164068
+    second: tilemap_food_37
+  - first:
+      213: -3787804638380477096
+    second: tilemap_food_38
+  - first:
+      213: 8106919774297381741
+    second: tilemap_food_39
+  - first:
+      213: 7890134312581074106
+    second: tilemap_food_40
+  - first:
+      213: 6857043962728127727
+    second: tilemap_food_41
+  - first:
+      213: 4603603993241320248
+    second: tilemap_food_42
+  - first:
+      213: 6128002967040612545
+    second: tilemap_food_43
+  - first:
+      213: -2138071227790911789
+    second: tilemap_food_44
+  - first:
+      213: 8535183501202458540
+    second: tilemap_food_45
+  - first:
+      213: -5908635476561213427
+    second: tilemap_food_46
+  - first:
+      213: -1448890008395269525
+    second: tilemap_food_47
+  - first:
+      213: -2288546117708226054
+    second: tilemap_food_48
+  - first:
+      213: -6606125564031819006
+    second: tilemap_food_49
+  - first:
+      213: 2815955545261458013
+    second: tilemap_food_50
+  - first:
+      213: -6861617605387251866
+    second: tilemap_food_51
+  - first:
+      213: -1114451014556863413
+    second: tilemap_food_52
+  - first:
+      213: -7002974742944910100
+    second: tilemap_food_53
+  - first:
+      213: 2444502177509274339
+    second: tilemap_food_54
+  - first:
+      213: 3174454511705246690
+    second: tilemap_food_55
+  - first:
+      213: -8055052061777244199
+    second: tilemap_food_56
+  - first:
+      213: -8489312011176583907
+    second: tilemap_food_57
+  - first:
+      213: 850553950233919144
+    second: tilemap_food_58
+  - first:
+      213: 1401707739976914
+    second: tilemap_food_59
+  - first:
+      213: -1108326488414446069
+    second: tilemap_food_60
+  - first:
+      213: -2248857604866028941
+    second: tilemap_food_61
+  - first:
+      213: -2171283196817706762
+    second: tilemap_food_62
+  - first:
+      213: 5227157951167573352
+    second: tilemap_food_63
+  - first:
+      213: 6174091928370721936
+    second: tilemap_food_64
+  - first:
+      213: -5896120173256511321
+    second: tilemap_food_65
+  - first:
+      213: 3657763292081404557
+    second: tilemap_food_66
+  - first:
+      213: -8920020689355437527
+    second: tilemap_food_67
+  - first:
+      213: -6264705329609917156
+    second: tilemap_food_68
+  - first:
+      213: -8158649568571080259
+    second: tilemap_food_69
+  - first:
+      213: -7505774501468603126
+    second: tilemap_food_70
+  - first:
+      213: -161036674934266293
+    second: tilemap_food_71
+  - first:
+      213: -1332978229598902122
+    second: tilemap_food_72
+  - first:
+      213: 450232185916583491
+    second: tilemap_food_73
+  - first:
+      213: -2255863917194454276
+    second: tilemap_food_74
+  - first:
+      213: -2323260327178466788
+    second: tilemap_food_75
+  - first:
+      213: 3944725634581154569
+    second: tilemap_food_76
+  - first:
+      213: 7005525684110637272
+    second: tilemap_food_77
+  - first:
+      213: 7792386497604830116
+    second: tilemap_food_78
+  - first:
+      213: 6852288057830361179
+    second: tilemap_food_79
+  - first:
+      213: 1891060288180483433
+    second: tilemap_food_80
+  - first:
+      213: 1007206176442694446
+    second: tilemap_food_81
+  - first:
+      213: 647169773551849825
+    second: tilemap_food_82
+  - first:
+      213: 4503372586681899671
+    second: tilemap_food_83
+  - first:
+      213: -4623422425410933210
+    second: tilemap_food_84
+  - first:
+      213: -8881755432085219953
+    second: tilemap_food_85
+  - first:
+      213: -8623351525421396544
+    second: tilemap_food_86
+  - first:
+      213: 6628801987894167075
+    second: tilemap_food_87
+  - first:
+      213: -5259916628835761911
+    second: tilemap_food_88
+  - first:
+      213: 3412607295639764738
+    second: tilemap_food_89
+  - first:
+      213: -2920310164193471651
+    second: tilemap_food_90
+  - first:
+      213: 6365035451112290520
+    second: tilemap_food_91
+  - first:
+      213: 410106279214742778
+    second: tilemap_food_92
+  - first:
+      213: 3979285916151351518
+    second: tilemap_food_93
+  - first:
+      213: 8446602738295651880
+    second: tilemap_food_94
+  - first:
+      213: -6538175291114710036
+    second: tilemap_food_95
+  - first:
+      213: -1800142638264355610
+    second: tilemap_food_96
+  - first:
+      213: -3239770397883748864
+    second: tilemap_food_97
+  - first:
+      213: 6011593178414510528
+    second: tilemap_food_98
+  - first:
+      213: 4489575191791444276
+    second: tilemap_food_99
+  - first:
+      213: 932110621358030679
+    second: tilemap_food_100
+  - first:
+      213: 3141617435351545419
+    second: tilemap_food_101
+  - first:
+      213: 1463539550310278790
+    second: tilemap_food_102
+  - first:
+      213: 8029245914675401306
+    second: tilemap_food_103
+  - first:
+      213: 1070037683495938621
+    second: tilemap_food_104
+  - first:
+      213: 6647324239732413235
+    second: tilemap_food_105
+  - first:
+      213: 3163455358835198334
+    second: tilemap_food_106
+  - first:
+      213: 1155177897801978747
+    second: tilemap_food_107
+  - first:
+      213: 349323881120473494
+    second: tilemap_food_108
+  - first:
+      213: 661966457764950527
+    second: tilemap_food_109
+  - first:
+      213: 7830309382927257051
+    second: tilemap_food_110
+  - first:
+      213: 1004058229672138385
+    second: tilemap_food_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilemap_food_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e46fd16c4d89660800000000000000
+      internalID: 7392892735699963511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3189f675b9f37aea0800000000000000
+      internalID: -5861646453579999213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc76564f54d04a560800000000000000
+      internalID: 7323993488115460045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a451b0688efaeccf0800000000000000
+      internalID: -230053117733169846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c744c7055faf4e5a0800000000000000
+      internalID: -6492788831237159812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace7eccf64c8740c0800000000000000
+      internalID: -4591547058563940662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5405b851d47a5a0800000000000000
+      internalID: -6510149981413816916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d588ed4d329bd0990800000000000000
+      internalID: -7418069447662991267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2feb645ae854a310800000000000000
+      internalID: 1415353946363129642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f580936d2254a80800000000000000
+      internalID: -8483336019607265533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7905efebf65808b00800000000000000
+      internalID: 828809046428373143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cbe1cb028b28e50800000000000000
+      internalID: 6810208037272206484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333734ce7ad2e6920800000000000000
+      internalID: 2985373802239849267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b02fe25bdcec36f0800000000000000
+      internalID: -703427015043243851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55cc39a6c2628ee0800000000000000
+      internalID: -1260336340327938726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33a222134ee68230800000000000000
+      internalID: 3640859320610104123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24fc86b923f2adb0800000000000000
+      internalID: -4781992493832145877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 94
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bd63917df4e9660800000000000000
+      internalID: 7394435423448521524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019ed7e412120dca0800000000000000
+      internalID: -5994254677095618288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1597243bb121a20800000000000000
+      internalID: 3031515955902108091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077f731fe54b79df0800000000000000
+      internalID: -173471740763572368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ae3e05c09b29a90800000000000000
+      internalID: -7308575782721033648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33d405b748300220800000000000000
+      internalID: 2450020077920375615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bde6b46e812f5b0800000000000000
+      internalID: -5336175231093515387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a57ec5300a705510800000000000000
+      internalID: 1535861614254650790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a94f1e4dd2a9bfa0800000000000000
+      internalID: -5784413174998546015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0a46ff5fc836890800000000000000
+      internalID: -7465968769070489437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c369c0ba2d61a7a0800000000000000
+      internalID: -6367688368003128382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6036daeb70c70f8b0800000000000000
+      internalID: -5120456403614604538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61bcb6a3781e1ee0800000000000000
+      internalID: -1288565558383693457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 113
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9c855d0d6e4d000800000000000000
+      internalID: 59926479669610929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_31
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 94
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1149a32228349f120800000000000000
+      internalID: 2448062098651649041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014362c0f1d054070800000000000000
+      internalID: 8089886732639941648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7fffc47ba237190800000000000000
+      internalID: -7965976349129050141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99031cd306ab00720800000000000000
+      internalID: 2810451089994887321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb85ed5346d26870800000000000000
+      internalID: 8674731417095474117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de57071d0e5951cc0800000000000000
+      internalID: -3740919122642307603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf6efe4e4749cdc0800000000000000
+      internalID: -3618282423957164068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85531c200c30f6bc0800000000000000
+      internalID: -3787804638380477096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bd5991590918070800000000000000
+      internalID: 8106919774297381741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc04838a536f7d60800000000000000
+      internalID: 7890134312581074106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 75
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec95a7672d192f50800000000000000
+      internalID: 6857043962728127727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 75
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bf7bfd07943ef30800000000000000
+      internalID: 4603603993241320248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_43
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 75
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8def02b3a0b0550800000000000000
+      internalID: 6128002967040612545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_44
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 81
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d61a0bdb8b0452e0800000000000000
+      internalID: -2138071227790911789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_45
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca782f94c20137670800000000000000
+      internalID: 8535183501202458540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_46
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d084c40e65f400ea0800000000000000
+      internalID: -5908635476561213427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_47
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 75
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6abcf2c63284ebe0800000000000000
+      internalID: -1448890008395269525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1e6e16e637d30e0800000000000000
+      internalID: -2288546117708226054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203a14edcc35254a0800000000000000
+      internalID: -6606125564031819006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52c99a16a8441720800000000000000
+      internalID: 2815955545261458013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f835e6423a6c0a0800000000000000
+      internalID: -6861617605387251866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44b3c5f4bca880f0800000000000000
+      internalID: -1114451014556863413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_53
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce47cbb139f60de90800000000000000
+      internalID: -7002974742944910100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2fb1767cd9ce120800000000000000
+      internalID: 2444502177509274339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebc3d53f8ded0c20800000000000000
+      internalID: 3174454511705246690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df4d7ac3d4b63090800000000000000
+      internalID: -8055052061777244199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_57
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ddc5244b7ef2a80800000000000000
+      internalID: -8489312011176583907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_58
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae7ff1bf46cdcb00800000000000000
+      internalID: 850553950233919144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_59
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d49be388daf40000800000000000000
+      internalID: 1401707739976914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_60
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e96e25eee6e90f0800000000000000
+      internalID: -1108326488414446069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_61
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a468f5ce37ac0e0800000000000000
+      internalID: -2248857604866028941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_62
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0f7eabf6d0ed1e0800000000000000
+      internalID: -2171283196817706762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86da33046789a8840800000000000000
+      internalID: 5227157951167573352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_64
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b429a5e7cea550800000000000000
+      internalID: 6174091928370721936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_65
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 41
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0f70001f5cc2ea0800000000000000
+      internalID: -5896120173256511321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_66
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 56
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ab9f0a55cf2c230800000000000000
+      internalID: 3657763292081404557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_67
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 40
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a85dd7178b53480800000000000000
+      internalID: -8920020689355437527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_68
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dba1ec1bb4f09a0800000000000000
+      internalID: -6264705329609917156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_69
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 41
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db14d6a9177a6ce80800000000000000
+      internalID: -8158649568571080259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d77c3bbd126d790800000000000000
+      internalID: -7505774501468603126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46abb25ff1e3cdf0800000000000000
+      internalID: -161036674934266293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_72
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698ad63dc5f408de0800000000000000
+      internalID: -1332978229598902122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_73
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e6104a9cb8f3600800000000000000
+      internalID: 450232185916583491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_74
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfad00a28bf81b0e0800000000000000
+      internalID: -2255863917194454276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_75
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a05c5aa0f12cfd0800000000000000
+      internalID: -2323260327178466788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_76
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b4699801b7eb630800000000000000
+      internalID: 3944725634581154569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_77
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d83a4a2e70a83160800000000000000
+      internalID: 7005525684110637272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_78
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 56
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a34946db3e142c60800000000000000
+      internalID: 7792386497604830116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_79
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 37
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5841a10fa7381f50800000000000000
+      internalID: 6852288057830361179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96578d510556e3a10800000000000000
+      internalID: 1891060288180483433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b327a5ea05afd00800000000000000
+      internalID: 1007206176442694446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_82
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1619dedea753bf800800000000000000
+      internalID: 647169773551849825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_83
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a1868f1813f7e30800000000000000
+      internalID: 4503372586681899671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_84
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e6ececccd46dfb0800000000000000
+      internalID: -4623422425410933210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_85
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f851aa8fd7aadb480800000000000000
+      internalID: -8881755432085219953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_86
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd4fe1e973b35880800000000000000
+      internalID: -8623351525421396544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_87
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326c5de794c3efb50800000000000000
+      internalID: 6628801987894167075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_88
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901031eb1b50107b0800000000000000
+      internalID: -5259916628835761911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_89
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fb38e21440c5f20800000000000000
+      internalID: 3412607295639764738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_90
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53194dc069f877d0800000000000000
+      internalID: -2920310164193471651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8f056f406255850800000000000000
+      internalID: 6365035451112290520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_92
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc70c4fc7df0b500800000000000000
+      internalID: 410106279214742778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_93
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed88ae32573493730800000000000000
+      internalID: 3979285916151351518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e34fe307c583570800000000000000
+      internalID: 8446602738295651880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_95
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb1fd5a63cb345a0800000000000000
+      internalID: -6538175291114710036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_96
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4f73ddecb9407e0800000000000000
+      internalID: -1800142638264355610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_97
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 18
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e2058fcf50a03d0800000000000000
+      internalID: -3239770397883748864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_98
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1fe8d15287d6350800000000000000
+      internalID: 6011593178414510528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 18
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431a223a9dc2e4e30800000000000000
+      internalID: 4489575191791444276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_100
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ff96deba58fec00800000000000000
+      internalID: 932110621358030679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_101
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b467d469964499b20800000000000000
+      internalID: 3141617435351545419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_102
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686aaf287798f4410800000000000000
+      internalID: 1463539550310278790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_103
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52db7e5e9c9d6f60800000000000000
+      internalID: 8029245914675401306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_104
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aae059a9989de00800000000000000
+      internalID: 1070037683495938621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_105
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33318105d2a004c50800000000000000
+      internalID: 6647324239732413235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_106
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 18
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e798d2e53e9d6eb20800000000000000
+      internalID: 3163455358835198334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_107
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b739eda7d24080010800000000000000
+      internalID: 1155177897801978747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_108
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6912fb5183c09d400800000000000000
+      internalID: 349323881120473494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_109
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1bd407cf6cf2900800000000000000
+      internalID: 661966457764950527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_110
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd89c2a5e8daac60800000000000000
+      internalID: 7830309382927257051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_food_111
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1965a61e3a12fed00800000000000000
+      internalID: 1004058229672138385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tilemap_food_0: 7392892735699963511
+      tilemap_food_1: -5861646453579999213
+      tilemap_food_10: 828809046428373143
+      tilemap_food_100: 932110621358030679
+      tilemap_food_101: 3141617435351545419
+      tilemap_food_102: 1463539550310278790
+      tilemap_food_103: 8029245914675401306
+      tilemap_food_104: 1070037683495938621
+      tilemap_food_105: 6647324239732413235
+      tilemap_food_106: 3163455358835198334
+      tilemap_food_107: 1155177897801978747
+      tilemap_food_108: 349323881120473494
+      tilemap_food_109: 661966457764950527
+      tilemap_food_11: 6810208037272206484
+      tilemap_food_110: 7830309382927257051
+      tilemap_food_111: 1004058229672138385
+      tilemap_food_12: 2985373802239849267
+      tilemap_food_13: -703427015043243851
+      tilemap_food_14: -1260336340327938726
+      tilemap_food_15: 3640859320610104123
+      tilemap_food_16: -4781992493832145877
+      tilemap_food_17: 7394435423448521524
+      tilemap_food_18: -5994254677095618288
+      tilemap_food_19: 3031515955902108091
+      tilemap_food_2: 7323993488115460045
+      tilemap_food_20: -173471740763572368
+      tilemap_food_21: -7308575782721033648
+      tilemap_food_22: 2450020077920375615
+      tilemap_food_23: -5336175231093515387
+      tilemap_food_24: 1535861614254650790
+      tilemap_food_25: -5784413174998546015
+      tilemap_food_26: -7465968769070489437
+      tilemap_food_27: -6367688368003128382
+      tilemap_food_28: -5120456403614604538
+      tilemap_food_29: -1288565558383693457
+      tilemap_food_3: -230053117733169846
+      tilemap_food_30: 59926479669610929
+      tilemap_food_31: 2448062098651649041
+      tilemap_food_32: 8089886732639941648
+      tilemap_food_33: -7965976349129050141
+      tilemap_food_34: 2810451089994887321
+      tilemap_food_35: 8674731417095474117
+      tilemap_food_36: -3740919122642307603
+      tilemap_food_37: -3618282423957164068
+      tilemap_food_38: -3787804638380477096
+      tilemap_food_39: 8106919774297381741
+      tilemap_food_4: -6492788831237159812
+      tilemap_food_40: 7890134312581074106
+      tilemap_food_41: 6857043962728127727
+      tilemap_food_42: 4603603993241320248
+      tilemap_food_43: 6128002967040612545
+      tilemap_food_44: -2138071227790911789
+      tilemap_food_45: 8535183501202458540
+      tilemap_food_46: -5908635476561213427
+      tilemap_food_47: -1448890008395269525
+      tilemap_food_48: -2288546117708226054
+      tilemap_food_49: -6606125564031819006
+      tilemap_food_5: -4591547058563940662
+      tilemap_food_50: 2815955545261458013
+      tilemap_food_51: -6861617605387251866
+      tilemap_food_52: -1114451014556863413
+      tilemap_food_53: -7002974742944910100
+      tilemap_food_54: 2444502177509274339
+      tilemap_food_55: 3174454511705246690
+      tilemap_food_56: -8055052061777244199
+      tilemap_food_57: -8489312011176583907
+      tilemap_food_58: 850553950233919144
+      tilemap_food_59: 1401707739976914
+      tilemap_food_6: -6510149981413816916
+      tilemap_food_60: -1108326488414446069
+      tilemap_food_61: -2248857604866028941
+      tilemap_food_62: -2171283196817706762
+      tilemap_food_63: 5227157951167573352
+      tilemap_food_64: 6174091928370721936
+      tilemap_food_65: -5896120173256511321
+      tilemap_food_66: 3657763292081404557
+      tilemap_food_67: -8920020689355437527
+      tilemap_food_68: -6264705329609917156
+      tilemap_food_69: -8158649568571080259
+      tilemap_food_7: -7418069447662991267
+      tilemap_food_70: -7505774501468603126
+      tilemap_food_71: -161036674934266293
+      tilemap_food_72: -1332978229598902122
+      tilemap_food_73: 450232185916583491
+      tilemap_food_74: -2255863917194454276
+      tilemap_food_75: -2323260327178466788
+      tilemap_food_76: 3944725634581154569
+      tilemap_food_77: 7005525684110637272
+      tilemap_food_78: 7792386497604830116
+      tilemap_food_79: 6852288057830361179
+      tilemap_food_8: 1415353946363129642
+      tilemap_food_80: 1891060288180483433
+      tilemap_food_81: 1007206176442694446
+      tilemap_food_82: 647169773551849825
+      tilemap_food_83: 4503372586681899671
+      tilemap_food_84: -4623422425410933210
+      tilemap_food_85: -8881755432085219953
+      tilemap_food_86: -8623351525421396544
+      tilemap_food_87: 6628801987894167075
+      tilemap_food_88: -5259916628835761911
+      tilemap_food_89: 3412607295639764738
+      tilemap_food_9: -8483336019607265533
+      tilemap_food_90: -2920310164193471651
+      tilemap_food_91: 6365035451112290520
+      tilemap_food_92: 410106279214742778
+      tilemap_food_93: 3979285916151351518
+      tilemap_food_94: 8446602738295651880
+      tilemap_food_95: -6538175291114710036
+      tilemap_food_96: -1800142638264355610
+      tilemap_food_97: -3239770397883748864
+      tilemap_food_98: 6011593178414510528
+      tilemap_food_99: 4489575191791444276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3042 @@
+fileFormatVersion: 2
+guid: 42537357d0d7e4b49ac2f782e18133e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6154204997090171524
+    second: tilemap_industrial_0
+  - first:
+      213: -2530149989369127013
+    second: tilemap_industrial_1
+  - first:
+      213: 87234076347727109
+    second: tilemap_industrial_2
+  - first:
+      213: -5729741902138333173
+    second: tilemap_industrial_3
+  - first:
+      213: 3397427899712087035
+    second: tilemap_industrial_4
+  - first:
+      213: 445784807073397463
+    second: tilemap_industrial_5
+  - first:
+      213: 208108976325054543
+    second: tilemap_industrial_6
+  - first:
+      213: 792997463171985246
+    second: tilemap_industrial_7
+  - first:
+      213: 6105106892721589233
+    second: tilemap_industrial_8
+  - first:
+      213: 1734371184209073490
+    second: tilemap_industrial_9
+  - first:
+      213: -1992801664725484854
+    second: tilemap_industrial_10
+  - first:
+      213: -4664950192522382094
+    second: tilemap_industrial_11
+  - first:
+      213: -2562009172918870037
+    second: tilemap_industrial_12
+  - first:
+      213: -6621163457238142520
+    second: tilemap_industrial_13
+  - first:
+      213: -3712722778964531871
+    second: tilemap_industrial_14
+  - first:
+      213: -3770832396776471045
+    second: tilemap_industrial_15
+  - first:
+      213: 1161689428824507816
+    second: tilemap_industrial_16
+  - first:
+      213: -7155466993001736126
+    second: tilemap_industrial_17
+  - first:
+      213: -7382974814237793711
+    second: tilemap_industrial_18
+  - first:
+      213: -6537331489587148712
+    second: tilemap_industrial_19
+  - first:
+      213: 9105303641196959220
+    second: tilemap_industrial_20
+  - first:
+      213: 6409723780753358416
+    second: tilemap_industrial_21
+  - first:
+      213: 6366762951851304309
+    second: tilemap_industrial_22
+  - first:
+      213: -4963429039888528700
+    second: tilemap_industrial_23
+  - first:
+      213: 3262198405132423140
+    second: tilemap_industrial_24
+  - first:
+      213: 1212113911097397836
+    second: tilemap_industrial_25
+  - first:
+      213: 4901532151672746563
+    second: tilemap_industrial_26
+  - first:
+      213: 368415213777994253
+    second: tilemap_industrial_27
+  - first:
+      213: -3720586109747655385
+    second: tilemap_industrial_28
+  - first:
+      213: 440825882541372963
+    second: tilemap_industrial_29
+  - first:
+      213: -8051833315218107549
+    second: tilemap_industrial_30
+  - first:
+      213: 7174313507437971381
+    second: tilemap_industrial_31
+  - first:
+      213: -2139757060846498447
+    second: tilemap_industrial_32
+  - first:
+      213: -2707549694064218079
+    second: tilemap_industrial_33
+  - first:
+      213: 5187710585172906085
+    second: tilemap_industrial_34
+  - first:
+      213: -273928665662003687
+    second: tilemap_industrial_35
+  - first:
+      213: -5433740167824463346
+    second: tilemap_industrial_36
+  - first:
+      213: 1831715603978252938
+    second: tilemap_industrial_37
+  - first:
+      213: -2416698818189566668
+    second: tilemap_industrial_38
+  - first:
+      213: -1063275315198446100
+    second: tilemap_industrial_39
+  - first:
+      213: -1186577582898516687
+    second: tilemap_industrial_40
+  - first:
+      213: 6347173732356036048
+    second: tilemap_industrial_41
+  - first:
+      213: -4715031890808161910
+    second: tilemap_industrial_42
+  - first:
+      213: 7812854677202166859
+    second: tilemap_industrial_43
+  - first:
+      213: -350567248392602383
+    second: tilemap_industrial_44
+  - first:
+      213: 2243212449233851687
+    second: tilemap_industrial_45
+  - first:
+      213: 7865006965259639961
+    second: tilemap_industrial_46
+  - first:
+      213: -3142717811830379943
+    second: tilemap_industrial_47
+  - first:
+      213: 8820958824612881930
+    second: tilemap_industrial_48
+  - first:
+      213: -1184735745542836246
+    second: tilemap_industrial_49
+  - first:
+      213: 2457963569862428089
+    second: tilemap_industrial_50
+  - first:
+      213: -5113977545308706651
+    second: tilemap_industrial_51
+  - first:
+      213: -3683918851572288288
+    second: tilemap_industrial_52
+  - first:
+      213: -5485734652370343670
+    second: tilemap_industrial_53
+  - first:
+      213: 3392832931127553791
+    second: tilemap_industrial_54
+  - first:
+      213: 8063458695924968078
+    second: tilemap_industrial_55
+  - first:
+      213: 4892433336943548669
+    second: tilemap_industrial_56
+  - first:
+      213: -8002000792283094668
+    second: tilemap_industrial_57
+  - first:
+      213: -5561965613175016825
+    second: tilemap_industrial_58
+  - first:
+      213: 4115728519979669980
+    second: tilemap_industrial_59
+  - first:
+      213: -3082786084608478618
+    second: tilemap_industrial_60
+  - first:
+      213: 295889641132380275
+    second: tilemap_industrial_61
+  - first:
+      213: -4982884923505198878
+    second: tilemap_industrial_62
+  - first:
+      213: -1475224458445063522
+    second: tilemap_industrial_63
+  - first:
+      213: 7320428960408860255
+    second: tilemap_industrial_64
+  - first:
+      213: 2174397531746786509
+    second: tilemap_industrial_65
+  - first:
+      213: 4803744350087787996
+    second: tilemap_industrial_66
+  - first:
+      213: -6745716666627560480
+    second: tilemap_industrial_67
+  - first:
+      213: 4108649785748558598
+    second: tilemap_industrial_68
+  - first:
+      213: 7797700793932675297
+    second: tilemap_industrial_69
+  - first:
+      213: -5104725521587467157
+    second: tilemap_industrial_70
+  - first:
+      213: -9185419654200865043
+    second: tilemap_industrial_71
+  - first:
+      213: 868721560432648034
+    second: tilemap_industrial_72
+  - first:
+      213: -6729239889283429418
+    second: tilemap_industrial_73
+  - first:
+      213: 7524664786693153440
+    second: tilemap_industrial_74
+  - first:
+      213: 6663633144004576808
+    second: tilemap_industrial_75
+  - first:
+      213: 5927963364950089461
+    second: tilemap_industrial_76
+  - first:
+      213: -5607960329144261934
+    second: tilemap_industrial_77
+  - first:
+      213: -4961053231783338936
+    second: tilemap_industrial_78
+  - first:
+      213: 1690017452987294207
+    second: tilemap_industrial_79
+  - first:
+      213: 8339651606931560683
+    second: tilemap_industrial_80
+  - first:
+      213: 7231142717009747376
+    second: tilemap_industrial_81
+  - first:
+      213: 5084733003745021095
+    second: tilemap_industrial_82
+  - first:
+      213: -4498655362872180897
+    second: tilemap_industrial_83
+  - first:
+      213: 1831332561281508886
+    second: tilemap_industrial_84
+  - first:
+      213: 5899842590615443315
+    second: tilemap_industrial_85
+  - first:
+      213: -3945579220880134507
+    second: tilemap_industrial_86
+  - first:
+      213: 319311785401812301
+    second: tilemap_industrial_87
+  - first:
+      213: -1583971895088565881
+    second: tilemap_industrial_88
+  - first:
+      213: 5311873289068807845
+    second: tilemap_industrial_89
+  - first:
+      213: 7237589267292606036
+    second: tilemap_industrial_90
+  - first:
+      213: 8124596936879136801
+    second: tilemap_industrial_91
+  - first:
+      213: -8286492027220341598
+    second: tilemap_industrial_92
+  - first:
+      213: 3749278829584930766
+    second: tilemap_industrial_93
+  - first:
+      213: 7783944580463655866
+    second: tilemap_industrial_94
+  - first:
+      213: -1241371292669756164
+    second: tilemap_industrial_95
+  - first:
+      213: -5860276045635875649
+    second: tilemap_industrial_96
+  - first:
+      213: -5067351776798776016
+    second: tilemap_industrial_97
+  - first:
+      213: -2717206653946585699
+    second: tilemap_industrial_98
+  - first:
+      213: 6066821749067014188
+    second: tilemap_industrial_99
+  - first:
+      213: -4291894499936771297
+    second: tilemap_industrial_100
+  - first:
+      213: -6901286364793129142
+    second: tilemap_industrial_101
+  - first:
+      213: -8491014302111155964
+    second: tilemap_industrial_102
+  - first:
+      213: 4332037015354013811
+    second: tilemap_industrial_103
+  - first:
+      213: 6523157497416675244
+    second: tilemap_industrial_104
+  - first:
+      213: 1986689532943227053
+    second: tilemap_industrial_105
+  - first:
+      213: -8563309138931222408
+    second: tilemap_industrial_106
+  - first:
+      213: 2178059986964664377
+    second: tilemap_industrial_107
+  - first:
+      213: -1197856906604362157
+    second: tilemap_industrial_108
+  - first:
+      213: -7710133702901888912
+    second: tilemap_industrial_109
+  - first:
+      213: -4472934285917927438
+    second: tilemap_industrial_110
+  - first:
+      213: -4331322226078669442
+    second: tilemap_industrial_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilemap_industrial_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a5e76a6d0286550800000000000000
+      internalID: 6154204997090171524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fd13f6df913ecd0800000000000000
+      internalID: -2530149989369127013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50df3052eeae53100800000000000000
+      internalID: 87234076347727109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08af54f81edb70b0800000000000000
+      internalID: -5729741902138333173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf32758aca6162f20800000000000000
+      internalID: 3397427899712087035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da30ef8beebf2600800000000000000
+      internalID: 445784807073397463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40dc68e20a53e200800000000000000
+      internalID: 208108976325054543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fe624cdfa410b00800000000000000
+      internalID: 792997463171985246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb85786f52b9b450800000000000000
+      internalID: 6105106892721589233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25594772769b11810800000000000000
+      internalID: 1734371184209073490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acafa3ab1752854e0800000000000000
+      internalID: -1992801664725484854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f430df0484c24fb0800000000000000
+      internalID: -4664950192522382094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befd0e83b3ae17cd0800000000000000
+      internalID: -2562009172918870037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1f5838ae6ec14a0800000000000000
+      internalID: -6621163457238142520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 113
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165615aad42c97cc0800000000000000
+      internalID: -3712722778964531871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 94
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf58a92f9ef4babc0800000000000000
+      internalID: -3770832396776471045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 113
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5496071662f1010800000000000000
+      internalID: 1161689428824507816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 94
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24859106eaca2bc90800000000000000
+      internalID: -7155466993001736126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15263bbe5876a8990800000000000000
+      internalID: -7382974814237793711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 113
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858ce2085abb645a0800000000000000
+      internalID: -6537331489587148712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 113
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f59d917b698c5e70800000000000000
+      internalID: 9105303641196959220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 113
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e7d2481d9e3f850800000000000000
+      internalID: 6409723780753358416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 94
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575e6321c294b5850800000000000000
+      internalID: 6366762951851304309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 113
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca0699e59b5e1bb0800000000000000
+      internalID: -4963429039888528700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef83c46a28a54d20800000000000000
+      internalID: 3262198405132423140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42154a1e2b42d010800000000000000
+      internalID: 1212113911097397836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3423c93c58db50440800000000000000
+      internalID: 4901532151672746563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 113
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02461b5fafdc1500800000000000000
+      internalID: 368415213777994253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d0d3c45a2dd5cc0800000000000000
+      internalID: -3720586109747655385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 113
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3263da8fdc02e1600800000000000000
+      internalID: 440825882541372963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 94
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363d4cf9244224090800000000000000
+      internalID: -8051833315218107549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b78026bf18409360800000000000000
+      internalID: 7174313507437971381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d4c924a4e0e42e0800000000000000
+      internalID: -2139757060846498447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120b59106e9dc6ad0800000000000000
+      internalID: -2707549694064218079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560d3c2aa437ef740800000000000000
+      internalID: 5187710585172906085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9166b65745fc23cf0800000000000000
+      internalID: -273928665662003687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a2d074b1a7794b0800000000000000
+      internalID: -5433740167824463346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82f9a013af8b6910800000000000000
+      internalID: 1831715603978252938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d54b4aa39267ed0800000000000000
+      internalID: -2416698818189566668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b72bfbbc7e31f0800000000000000
+      internalID: -1063275315198446100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d64e0a9fd688fe0800000000000000
+      internalID: -1186577582898516687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_41
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d595cc71e0b51850800000000000000
+      internalID: 6347173732356036048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89bdb30a77d09eb0800000000000000
+      internalID: -4715031890808161910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4462644fe5dc6c60800000000000000
+      internalID: 7812854677202166859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_44
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 56
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc3ca9e1f8822bf0800000000000000
+      internalID: -350567248392602383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 56
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725515866dd712f10800000000000000
+      internalID: 2243212449233851687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 56
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c16401a2e162d60800000000000000
+      internalID: 7865006965259639961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 75
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aae8c0dc2d264d0800000000000000
+      internalID: -3142717811830379943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_48
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 56
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06e567c0575a6a70800000000000000
+      internalID: 8820958824612881930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_49
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 75
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef263ecd19fe8fe0800000000000000
+      internalID: -1184735745542836246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_50
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 75
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5408c08d07c1220800000000000000
+      internalID: 2457963569862428089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 56
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8ec8e74808709b0800000000000000
+      internalID: -5113977545308706651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 75
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e43bae925710ecc0800000000000000
+      internalID: -3683918851572288288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_53
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 56
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a092a69f561ced3b0800000000000000
+      internalID: -5485734652370343670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 75
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeea1a2393c51f20800000000000000
+      internalID: 3392832931127553791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 56
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a64af36f827ef60800000000000000
+      internalID: 8063458695924968078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_56
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df89ccfd23a65e340800000000000000
+      internalID: 4892433336943548669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_57
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47162930dae23f090800000000000000
+      internalID: -8002000792283094668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_58
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782f3cd4ebdefc2b0800000000000000
+      internalID: -5561965613175016825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_59
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9155968410e1930800000000000000
+      internalID: 4115728519979669980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_60
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 75
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662f46ca36eb735d0800000000000000
+      internalID: -3082786084608478618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_61
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370d9689f063b1400800000000000000
+      internalID: 295889641132380275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_62
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 75
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8b2d1009c39dab0800000000000000
+      internalID: -4982884923505198878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_63
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 56
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9af96ecb23f68be0800000000000000
+      internalID: -1475224458445063522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56f6acaa53679560800000000000000
+      internalID: 7320428960408860255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccd040e8030d2e10800000000000000
+      internalID: 2174397531746786509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5b5caf8045aa240800000000000000
+      internalID: 4803744350087787996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb6b3a9e666262a0800000000000000
+      internalID: -6745716666627560480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603170a263bd40930800000000000000
+      internalID: 4108649785748558598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 37
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8732fde8ff63c60800000000000000
+      internalID: 7797700793932675297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 37
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c88e12f2f5829b0800000000000000
+      internalID: -5104725521587467157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee477ead75d68080800000000000000
+      internalID: -9185419654200865043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_72
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f9f4218a15e0c00800000000000000
+      internalID: 868721560432648034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db4fd649ffec92a0800000000000000
+      internalID: -6729239889283429418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_74
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a26cb091cafc6860800000000000000
+      internalID: 7524664786693153440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_75
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82689edf90bf97c50800000000000000
+      internalID: 6663633144004576808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_76
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe1161d54b544250800000000000000
+      internalID: 5927963364950089461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_77
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2afdafac58c22b0800000000000000
+      internalID: -5607960329144261934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c10c7de5cc62bb0800000000000000
+      internalID: -4961053231783338936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_79
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 37
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1a48d5be5247710800000000000000
+      internalID: 1690017452987294207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_80
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8dbad73f46cb370800000000000000
+      internalID: 8339651606931560683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_81
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 37
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdd4872dfd2a5460800000000000000
+      internalID: 7231142717009747376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_82
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac4de11ab9909640800000000000000
+      internalID: 5084733003745021095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_83
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ff81948c09191c0800000000000000
+      internalID: -4498655362872180897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_84
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6166accf2433a6910800000000000000
+      internalID: 1831332561281508886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_85
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 37
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3779a54d39370e150800000000000000
+      internalID: 5899842590615443315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_86
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 18
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ee64a6a9c7e39c0800000000000000
+      internalID: -3945579220880134507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_87
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 37
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d458875806c6e6400800000000000000
+      internalID: 319311785401812301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_88
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7813b0324f9940ae0800000000000000
+      internalID: -1583971895088565881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_89
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a605d6ec9097b940800000000000000
+      internalID: 5311873289068807845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_90
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ec72b9715117460800000000000000
+      internalID: 7237589267292606036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_91
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12068ed3edd50c070800000000000000
+      internalID: 8124596936879136801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_92
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2accc6ba767700d80800000000000000
+      internalID: -8286492027220341598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_93
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 37
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec75d412b3d180430800000000000000
+      internalID: 3749278829584930766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_94
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 18
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbfcd5da50260c60800000000000000
+      internalID: 7783944580463655866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_95
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 37
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc3d0ae263c5cee0800000000000000
+      internalID: -1241371292669756164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc842e4cfd1caea0800000000000000
+      internalID: -5860276045635875649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_97
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035e6ff28662da9b0800000000000000
+      internalID: -5067351776798776016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_98
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d9f22d1fa8a4ad0800000000000000
+      internalID: -2717206653946585699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_99
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20e0c4cc3ea13450800000000000000
+      internalID: 6066821749067014188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_100
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13e0d511b02074c0800000000000000
+      internalID: -4291894499936771297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_101
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a473245ad94b930a0800000000000000
+      internalID: -6901286364793129142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_102
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40937e3ca7bd92a80800000000000000
+      internalID: -8491014302111155964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_103
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378f40e96bc7e1c30800000000000000
+      internalID: 4332037015354013811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_104
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf6277ce29e68a50800000000000000
+      internalID: 6523157497416675244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_105
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da85112ba93229b10800000000000000
+      internalID: 1986689532943227053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_106
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878f52065b3092980800000000000000
+      internalID: -8563309138931222408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_107
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930558ea4060a3e10800000000000000
+      internalID: 2178059986964664377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_108
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356491e6d7b506fe0800000000000000
+      internalID: -1197856906604362157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_109
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07804cb4f3a100590800000000000000
+      internalID: -7710133702901888912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_110
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7423037f1fce1c0800000000000000
+      internalID: -4472934285917927438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_industrial_111
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75a3da326d04e3c0800000000000000
+      internalID: -4331322226078669442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tilemap_industrial_0: 6154204997090171524
+      tilemap_industrial_1: -2530149989369127013
+      tilemap_industrial_10: -1992801664725484854
+      tilemap_industrial_100: -4291894499936771297
+      tilemap_industrial_101: -6901286364793129142
+      tilemap_industrial_102: -8491014302111155964
+      tilemap_industrial_103: 4332037015354013811
+      tilemap_industrial_104: 6523157497416675244
+      tilemap_industrial_105: 1986689532943227053
+      tilemap_industrial_106: -8563309138931222408
+      tilemap_industrial_107: 2178059986964664377
+      tilemap_industrial_108: -1197856906604362157
+      tilemap_industrial_109: -7710133702901888912
+      tilemap_industrial_11: -4664950192522382094
+      tilemap_industrial_110: -4472934285917927438
+      tilemap_industrial_111: -4331322226078669442
+      tilemap_industrial_12: -2562009172918870037
+      tilemap_industrial_13: -6621163457238142520
+      tilemap_industrial_14: -3712722778964531871
+      tilemap_industrial_15: -3770832396776471045
+      tilemap_industrial_16: 1161689428824507816
+      tilemap_industrial_17: -7155466993001736126
+      tilemap_industrial_18: -7382974814237793711
+      tilemap_industrial_19: -6537331489587148712
+      tilemap_industrial_2: 87234076347727109
+      tilemap_industrial_20: 9105303641196959220
+      tilemap_industrial_21: 6409723780753358416
+      tilemap_industrial_22: 6366762951851304309
+      tilemap_industrial_23: -4963429039888528700
+      tilemap_industrial_24: 3262198405132423140
+      tilemap_industrial_25: 1212113911097397836
+      tilemap_industrial_26: 4901532151672746563
+      tilemap_industrial_27: 368415213777994253
+      tilemap_industrial_28: -3720586109747655385
+      tilemap_industrial_29: 440825882541372963
+      tilemap_industrial_3: -5729741902138333173
+      tilemap_industrial_30: -8051833315218107549
+      tilemap_industrial_31: 7174313507437971381
+      tilemap_industrial_32: -2139757060846498447
+      tilemap_industrial_33: -2707549694064218079
+      tilemap_industrial_34: 5187710585172906085
+      tilemap_industrial_35: -273928665662003687
+      tilemap_industrial_36: -5433740167824463346
+      tilemap_industrial_37: 1831715603978252938
+      tilemap_industrial_38: -2416698818189566668
+      tilemap_industrial_39: -1063275315198446100
+      tilemap_industrial_4: 3397427899712087035
+      tilemap_industrial_40: -1186577582898516687
+      tilemap_industrial_41: 6347173732356036048
+      tilemap_industrial_42: -4715031890808161910
+      tilemap_industrial_43: 7812854677202166859
+      tilemap_industrial_44: -350567248392602383
+      tilemap_industrial_45: 2243212449233851687
+      tilemap_industrial_46: 7865006965259639961
+      tilemap_industrial_47: -3142717811830379943
+      tilemap_industrial_48: 8820958824612881930
+      tilemap_industrial_49: -1184735745542836246
+      tilemap_industrial_5: 445784807073397463
+      tilemap_industrial_50: 2457963569862428089
+      tilemap_industrial_51: -5113977545308706651
+      tilemap_industrial_52: -3683918851572288288
+      tilemap_industrial_53: -5485734652370343670
+      tilemap_industrial_54: 3392832931127553791
+      tilemap_industrial_55: 8063458695924968078
+      tilemap_industrial_56: 4892433336943548669
+      tilemap_industrial_57: -8002000792283094668
+      tilemap_industrial_58: -5561965613175016825
+      tilemap_industrial_59: 4115728519979669980
+      tilemap_industrial_6: 208108976325054543
+      tilemap_industrial_60: -3082786084608478618
+      tilemap_industrial_61: 295889641132380275
+      tilemap_industrial_62: -4982884923505198878
+      tilemap_industrial_63: -1475224458445063522
+      tilemap_industrial_64: 7320428960408860255
+      tilemap_industrial_65: 2174397531746786509
+      tilemap_industrial_66: 4803744350087787996
+      tilemap_industrial_67: -6745716666627560480
+      tilemap_industrial_68: 4108649785748558598
+      tilemap_industrial_69: 7797700793932675297
+      tilemap_industrial_7: 792997463171985246
+      tilemap_industrial_70: -5104725521587467157
+      tilemap_industrial_71: -9185419654200865043
+      tilemap_industrial_72: 868721560432648034
+      tilemap_industrial_73: -6729239889283429418
+      tilemap_industrial_74: 7524664786693153440
+      tilemap_industrial_75: 6663633144004576808
+      tilemap_industrial_76: 5927963364950089461
+      tilemap_industrial_77: -5607960329144261934
+      tilemap_industrial_78: -4961053231783338936
+      tilemap_industrial_79: 1690017452987294207
+      tilemap_industrial_8: 6105106892721589233
+      tilemap_industrial_80: 8339651606931560683
+      tilemap_industrial_81: 7231142717009747376
+      tilemap_industrial_82: 5084733003745021095
+      tilemap_industrial_83: -4498655362872180897
+      tilemap_industrial_84: 1831332561281508886
+      tilemap_industrial_85: 5899842590615443315
+      tilemap_industrial_86: -3945579220880134507
+      tilemap_industrial_87: 319311785401812301
+      tilemap_industrial_88: -1583971895088565881
+      tilemap_industrial_89: 5311873289068807845
+      tilemap_industrial_9: 1734371184209073490
+      tilemap_industrial_90: 7237589267292606036
+      tilemap_industrial_91: 8124596936879136801
+      tilemap_industrial_92: -8286492027220341598
+      tilemap_industrial_93: 3749278829584930766
+      tilemap_industrial_94: 7783944580463655866
+      tilemap_industrial_95: -1241371292669756164
+      tilemap_industrial_96: -5860276045635875649
+      tilemap_industrial_97: -5067351776798776016
+      tilemap_industrial_98: -2717206653946585699
+      tilemap_industrial_99: 6066821749067014188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
